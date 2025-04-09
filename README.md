@@ -8,10 +8,9 @@ Melon hub is a cheat client designed for bloxd.io.
 ### Bloxd.io
 
 # Features
-## Bloxd.io
-### Max detectability 
+## Bloxd.io 
 ### Infinite Jump
-### Fast Run
+### Auto Run
 ### Fast Crouch
 ### Scaffold (broken)
 ### Account Generator
