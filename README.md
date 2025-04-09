@@ -2,7 +2,7 @@
 I'm not created Melon-Hub
 this is Fork Copy
 # Melon-Hub
-Melon hub is a cheat client designed for several games, meant to be open sourced & bloxd.io.
+Melon hub is a cheat client designed for bloxd.io, meant to be open sourced & bloxd.io.
 
 # Supported Games
 ### Bloxd.io
